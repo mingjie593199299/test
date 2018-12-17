@@ -53,3 +53,7 @@ if __name__ == '__main__':
     print l
     msort(l)
     print l
+
+    print('123456779')
+    print('123456779')
+    print('123456779')
