@@ -17,7 +17,7 @@ def qsort(l,i,j):
             i += 1
             l[j]=l[i]
         else:
-            j -= 1
+            j -=
     l[i] = tmp
     if a<i:
         qsort(l,a,i)
